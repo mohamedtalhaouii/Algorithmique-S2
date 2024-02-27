@@ -19,7 +19,7 @@ elif Operation == "*":
 
 elif Operation == "/":
 #La Condition de la Dénominateur null
-    if y == 0:
+    while y == 0:
         y = int(input("Essayer d'entrer la second nombre non null : "))
     resultat = x / y
     print(x, "/", y , "=" ,resultat )
