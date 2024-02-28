@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Mohamed+Talhaoui;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Python;with+Mohamed+Talhaoui;" />
 </h1>
 <h3 align="center"> La Correction des TD's et TP's d'Algorithmique 2 (Python) de Prof El Ouahabi & Prof Essahraoui (MIP) </h3>
 
