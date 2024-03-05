@@ -6,10 +6,10 @@ b = int(input("Donner la valeur de b: "))
 c = int(input("Donner la valeur de c: "))
 
 # Effectuer la permutation circulaire:
-temp = a
+temp = b
+b = a
 a = c
-c = b
-b = temp
+c = temp
 
 # Écrire la resultat:
-print("a = ", a, " , b = ", b, " et c = ", c)
+print(a, b, c)
