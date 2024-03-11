@@ -10,6 +10,6 @@ if heure >= 0 and heure <= 23 and minutes >= 0 and minutes <= 59:
 		minutes = 0
 		if heure == 24:
 			heure = 0
-	print("Dans une minute, il sera", heure, "heure(s)", minutes, "minute(s)");
+	print("Dans une minute, il sera", heure, "heure(s)", minutes, "minute(s)")
 else:
 	print("L'heure doit être entre 0 et 23 et les minutes devons être entre 0 et 59")
