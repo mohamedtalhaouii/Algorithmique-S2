@@ -12,4 +12,4 @@ else:
 		minutes = 0
 		if heure == 24:
 			heure = 0
-	print("Dans une minute, il sera", heure, "heure(s)", minutes, "minute(s)");
+	print("Dans une minute, il sera", heure, "heure(s)", minutes, "minute(s)")
